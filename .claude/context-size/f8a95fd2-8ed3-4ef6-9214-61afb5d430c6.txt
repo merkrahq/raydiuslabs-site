@@ -1,0 +1,1 @@
+85476 tokens (8.5% of 1M) warn=160000 wrap=200000 model=claude-sonnet-5-5 status=OK ts=2026-11-24T22:27:59Z project_dir=/home/natkra90/projects/up/Fred_Tannous_Raydius/deliverables/raydiuslabs-site session_id=f8a95fd2-8ed3-4ef6-9214-61afb5d430c6

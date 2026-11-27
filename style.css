@@ -93,6 +93,7 @@ section{padding:96px 0}
 .ab2 dd{color:#fff;font:500 18px/28px Inter;letter-spacing:-.01em}
 @media (max-width:760px){.ab2 .split{grid-template-columns:1fr;gap:40px}.ab2 .sheet{padding:8px 22px}.ab2 dl div{grid-template-columns:1fr;gap:2px;padding:18px 0}}
 @media (max-width:760px){#about .wrap{width:calc(100% - 40px)}}
+@media (min-width:761px) and (max-width:1023px){.ab2 .split{gap:48px}#about.ab2 h2{max-width:400px}}
 
 /* ===== principles ===== */
 #principles .wrap{width:min(100% - 40px,1176px)}
@@ -155,6 +156,7 @@ footer.f1{padding:48px 0 40px;border-top:1px solid var(--line)}
 .prose h1{font-size:54px;line-height:62px;margin-bottom:12px}
 .prose .updated{font:400 15px/24px "Space Mono",monospace;color:var(--accent);margin:0 0 32px;padding-bottom:32px;border-bottom:1px solid var(--line)}
 .prose h2{font-size:24px;line-height:36px;margin:48px 0 12px}
+.prose h1,.prose h2{will-change:transform}
 .prose p{margin:0 0 18px}
 .prose ul,.prose ol{margin:0 0 18px;padding-left:24px}
 .prose li{margin-bottom:10px;padding-left:4px}
